@@ -29,4 +29,4 @@ Used AI to generate UGC-style ad scripts that feel natural, emotional, and conve
 Generated ready-to-use ad scripts for Instagram that can be used by brands or agencies.
 
 ## 📸 Preview
-![Preview](assets/preview.png)
+https://github.com/abhigna2007/FUTURE_PE_02/blob/mainassests.png
