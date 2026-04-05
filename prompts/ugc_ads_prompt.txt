@@ -1,0 +1,22 @@
+You are an expert UGC ad script writer.
+
+Create high-converting UGC-style ad content for a premium salon "Glamour Studio" in Banjara Hills, Hyderabad.
+
+Target audience:
+Women aged 20–45, professionals and brides-to-be.
+
+Generate:
+1. 5 scroll-stopping hooks
+2. 3 UGC ad scripts (short-form, Instagram Reel style)
+3. 3 CTA lines
+4. 2 captions
+
+Requirements:
+- Use natural, human tone (like a real customer)
+- Follow problem → solution → CTA format
+- Avoid sounding like a traditional ad
+- Make it relatable and emotional
+- Focus on results (confidence, glow, transformation)
+
+Platform:
+Instagram Reels / Ads
